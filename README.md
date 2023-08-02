@@ -1,6 +1,6 @@
 # TailwindProject
 
-- [Demo Project](   https://mahsabbpour.github.io/TailwindProject/)
+- [Demo Project](https://mahsabbpour.github.io/TailwindProject/)
 
 - Developed by Mahsa Babapour
 
